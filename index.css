@@ -1,4 +1,23 @@
+.fa-youtube-play{
 
+    color: red;
+}
+.fa-telegram{
+    color: rgb(68, 178, 237);
+}
+.fa-facebook{
+    color: rgb(42, 155, 216);
+}
+.fa-phone{
+    color: green;
+}
+.fa-instagram{
+    /* color: rgb(253, 29, 29); */
+    color: rgb(245, 96, 64);
+    
+    
+    
+}
 #myVideo {
     position: fixed;
     right: 0;
